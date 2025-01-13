@@ -12,8 +12,7 @@
  
 <a href="https://github.com/SparkScratch-P/SPARK-Captcha"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=GitHub&logoColor=white" onmouseover="this.src='https://img.shields.io/badge/SparkScratch_P-SPARK_Captcha-181717?style=for-the-badge&logo=GitHub&logoColor=white';" onmouseout="this.src='https://img.shields.io/badge/--181717?style=for-the-badge&logo=GitHub&logoColor=white';" /></a>
 
- This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. You can use it without any registration and authoristion. It serves free in your site; and protects your resources!
- 
+This CAPTCHA leverages cutting-edge anti-AI configurations to ensure robust security for your resources. It’s completely free, open-source, and incredibly user-friendly. Best of all, it requires no registration or authorization to get started. Safeguard your site effortlessly with this reliable and hassle-free solution! 
 
 <style>
 
